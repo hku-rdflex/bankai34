@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Tech
 - 🌱 I’m currently learning Odoo 17 FrameWork
 - 💞️ I’m looking to collaborate on Related to Python
-- 📫 How to reach me @hiteshglobal123@gmail.com
+- 📫 How to reach me hiteshglobal123@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
